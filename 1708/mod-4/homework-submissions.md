@@ -116,7 +116,7 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 * [Express Tutorial]() - What additional items did you work on?
 * [Promise Practice Exercises]()
 * [Palette Picker PWA](https://palette-picker-pwa-sanchez.herokuapp.com/)
-* [Websockets Tutorial]() - What additional items did you work on?
+* [Websockets Tutorial](https://github.com/mariastlouis/socket.io.tutorial) - Added user name, typing and connect message
 * [House of Vars Blog Post](https://medium.com/@msantray/open-source-projects-get-comfortable-being-uncomfortable-then-do-the-robot-5f3908d6443e)
 * [Pattern Party Repo]()
 * [Pattern Party GitHub Pages]()
