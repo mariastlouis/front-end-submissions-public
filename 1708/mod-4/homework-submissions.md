@@ -6,11 +6,11 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 **Week 1 (Prework)**
 
-* [Node Server Tutorial](https://github.com/mariastlouis/mod-4-prework/tree/master/messages) 
+* [Node Server Tutorial]() 
 
-* [Express Tutorial](https://github.com/mariastlouis/mod-4-prework/tree/master/expressServer) Worked on the first three challenges - added js file, json file and sunsets.html 
+* [Express Tutorial]() 
 
-* [Promise Practice Exercises](https://repl.it/@msantray/MariaSanchezPromisePractice)
+* [Promise Practice Exercises]()
 
 **Week 2**
 
@@ -113,14 +113,14 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Maria St. Louis-Sanchez
 
-* [Node Server Tutorial]()
-* [Express Tutorial]() - What additional items did you work on?
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/mariastlouis/mod-4-prework/tree/master/messages)
+* [Express Tutorial](https://github.com/mariastlouis/mod-4-prework/tree/master/expressServer) - What additional items did you work on? Worked on the first three challenges - added js file, json file and sunsets.html 
+* [Promise Practice Exercises](https://repl.it/@msantray/MariaSanchezPromisePractice)
 * [Palette Picker PWA](https://palette-picker-pwa-sanchez.herokuapp.com/)
-* [Websockets Tutorial]() - What additional items did you work on?
+* [Websockets Tutorial](https://github.com/mariastlouis/socket.io.tutorial) - What additional items did you work on?
 * [House of Vars Blog Post](https://medium.com/@msantray/open-source-projects-get-comfortable-being-uncomfortable-then-do-the-robot-5f3908d6443e)
-* [Pattern Party Repo]()
-* [Pattern Party GitHub Pages]()
+* [Pattern Party Repo](https://github.com/mariastlouis/pattrn-party)
+* [Pattern Party GitHub Pages](https://mariastlouis.github.io/pattrn-party/)
 
 ### Patrick Neel
 
